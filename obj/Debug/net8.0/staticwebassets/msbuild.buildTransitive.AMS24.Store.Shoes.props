@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AMS24.Store.Shoes.props" />
+</Project>
